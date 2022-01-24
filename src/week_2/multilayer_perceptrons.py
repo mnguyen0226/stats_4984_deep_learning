@@ -131,7 +131,7 @@ def fully_connected_network():
             optimizer.step()  # update gradient
         print(loss)
 
-    # Evaluates
+    # Evaluates scores
     correct = 0
     total = 0
 

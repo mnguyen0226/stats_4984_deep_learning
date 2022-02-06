@@ -1,10 +1,13 @@
-# STATS 4984 - Deep Learning - Virginia Tech
+# STAT 4984 - Deep Learning in PyTorch - Virginia Tech
 
 ## Intro to Deep Learning
+- Lecture & Code
 
 ## Multilayer Perceptrons
+- Lecture & Code
 
 ## Optimization
+- Lecture & Code
 
 ## Convolutional Neural Networks
 

@@ -7,7 +7,7 @@
 - [Lecture & Code](https://github.com/mnguyen0226/stats_4984_deep_learning/tree/main/src/week_2).
 
 ## Optimization
-- Lecture & Code
+- [Lecture & Code](https://github.com/mnguyen0226/stats_4984_deep_learning/tree/main/src/week_3).
 
 ## Convolutional Neural Networks
 

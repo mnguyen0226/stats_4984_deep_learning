@@ -4,7 +4,7 @@
 - [Lecture & Code](https://github.com/mnguyen0226/stats_4984_deep_learning/tree/main/src/week_1).
 
 ## Multilayer Perceptrons
-- Lecture & Code
+- [Lecture & Code](https://github.com/mnguyen0226/stats_4984_deep_learning/tree/main/src/week_2).
 
 ## Optimization
 - Lecture & Code

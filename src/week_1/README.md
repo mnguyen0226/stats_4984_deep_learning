@@ -1,4 +1,5 @@
 # Lecture
+- Objective: Overview of Deep Learning and Python
 
 ## 1. AI, ML, DL
 - Artificial Intelligence: is human intelligence exhibited by machines

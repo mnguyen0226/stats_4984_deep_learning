@@ -1,5 +1,5 @@
 # Lecture
-
+- 
 
 # Deep Learning Q & A
 - `Q1:` Can hidden layer in linear fully connect layer can be other number besides 64? Yes.

@@ -1,4 +1,4 @@
-# STAT 4984 - Deep Learning in PyTorch - Virginia Tech
+# Deep Learning in PyTorch Tutorial - Virginia Tech
 
 ## Intro to Deep Learning
 - Lecture & Code
